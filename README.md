@@ -11,4 +11,6 @@
 - 2160 - 그림 비교 (조합 문제)
   - 문제 : https://www.acmicpc.net/problem/2160
   - 해석 및 소스코드 설명 : https://tlstjd436.blog.me/221737284025
-
+- 2174 - 로봇 시뮬레이션 (시뮬레이션 문제)
+  - 문제 : https://www.acmicpc.net/problem/2174
+  - 해석 및 소스코드 설명 : 
