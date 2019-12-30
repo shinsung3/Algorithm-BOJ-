@@ -16,4 +16,7 @@
   - 해석 및 소스코드 설명 : https://tlstjd436.blog.me/221737348239
 - 11568 - 민균이의 계략 (DP)
   - 문제 : https://www.acmicpc.net/problem/11568
+  - 해석 및 소스코드 설명 : https://tlstjd436.blog.me/221739311514
+- <b>2754 - 윤년</b>
+  - 문제 : https://www.acmicpc.net/problem/2753
   - 해석 및 소스코드 설명 : 
