@@ -24,6 +24,7 @@
   - 문제 : https://www.acmicpc.net/problem/5014
   - 해석 및 소스코드 설명 : 
 - [1233 주사위]
+- [1236 성 지키기]
 - [1712 손익분기점](https://tlstjd436.blog.me/222014266595) - 단계별로 풀어보기 : 수학1[Bronze 4]
 - [2231 분해합](https://tlstjd436.blog.me/222030656834)
 - [2292 벌집](https://tlstjd436.blog.me/222017327117) - 단계별로 풀어보기 : 수학1[Bronze 2]
