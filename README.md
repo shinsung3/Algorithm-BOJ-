@@ -27,7 +27,7 @@
 - [1236 성 지키기](https://tlstjd436.blog.me/222063058927)
 - [1259 팰린드롬수](https://tlstjd436.blog.me/222068841975)
 - [1284 집주소](https://tlstjd436.blog.me/222069771125)
-- [1296 데이트]
+- [1296 데이트](https://tlstjd436.blog.me/222072616306)
 - [1333 부재중 전화](https://tlstjd436.blog.me/222072652848)
 - [1340 연도 진행바](https://tlstjd436.blog.me/222073984333)
 - [1362 펫](https://tlstjd436.blog.me/222076526880)
