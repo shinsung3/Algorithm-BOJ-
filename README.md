@@ -49,6 +49,7 @@
 - [3046 R2]
 - [5543 상근날드](https://tlstjd436.blog.me/222023107917) - 단계별로 풀어보기 : 재귀[Bronze 4]
 - [7568 덩치](https://tlstjd436.blog.me/222033696085)
+- [9655 돌 게임] [Silver 5]
 - [10818 최소 최대](https://tlstjd436.blog.me/222011080577) - 단계별로 풀어보기 : 1차원 배열 [Bronze 3]
 - [10872 팩토리얼](https://tlstjd436.blog.me/222023107917) - 단계별로 풀어보기 : 재귀 [Bronze 3]
 - [11729 하노이 탑 이동 순서](https://tlstjd436.blog.me/222035696429) - 재귀 [Silver 2]
