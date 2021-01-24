@@ -76,6 +76,7 @@
 - [1233 주사위](https://tlstjd436.blog.me/222073970813)
 - [1271 엄청난 부자2]
 - [1712 손익분기점] - 단계별로 풀어보기 : 수학1[Bronze 4]
+- [1920 수 찾기] - Silver 4
 - [2292 벌집](https://tlstjd436.blog.me/222019476741) - 단계별로 풀어보기 : 수학1[Bronze 2]
 - [2338 긴자리 계산]
 - [2446 별찍기 - 9](https://tlstjd436.blog.me/222047620191)
@@ -90,6 +91,7 @@
 - [3053 택시 기하학](https://tlstjd436.blog.me/222050407430)
 - [4153 직각삼각형](https://tlstjd436.blog.me/222049240081)
 - [5543 상근날드](https://tlstjd436.blog.me/222023107917) - 단계별로 풀어보기 : 재귀[Bronze 4]
+- [9655 돌게임](https://blog.naver.com/tlstjd436/222207042074) - Silver 5
 - [10818 최소 최대](https://tlstjd436.blog.me/222011356788) - 단계별로 풀어보기 : 1차원 배열 [Bronze 3]
 - [10872 팩토리얼](https://tlstjd436.blog.me/222023107917) - 단계별로 풀어보기 : 재귀 [Bronze 3]
 - [10996 별찍기 - 21](https://tlstjd436.blog.me/222047679162)
