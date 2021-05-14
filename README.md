@@ -2,9 +2,7 @@
 - 백준 알고리즘 문제풀이
   <br/>
   - 설명은 ```tlstjd436.blog.me```
-- 1197번 최소 스패닝 트리
-  - 문제 : https://www.acmicpc.net/problem/1197
-  - 해석 및 소스코드 설명 : https://tlstjd436.blog.me/221725168366
+
 - 1063 - 킹 (시뮬레이션 문제)
   - 문제 : https://www.acmicpc.net/problem/1063
   - 해석 및 소스코드 설명 : https://tlstjd436.blog.me/221735111114
@@ -23,6 +21,8 @@
 - <b>5014 - 스타트링크</b>
   - 문제 : https://www.acmicpc.net/problem/5014
   - 해석 및 소스코드 설명 : 
+- [1051 숫자 정사각형] 
+- [1197 최소 스패닝 트리](https://tlstjd436.blog.me/221725168366)
 - [1233 주사위](https://tlstjd436.blog.me/222057954941)
 - [1236 성 지키기](https://tlstjd436.blog.me/222063058927)
 - [1259 팰린드롬수](https://tlstjd436.blog.me/222068841975)
