@@ -1,4 +1,4 @@
-package com.algorithm.java;
+package com.algo.before;
 
 import java.util.LinkedList;
 import java.util.Queue;
