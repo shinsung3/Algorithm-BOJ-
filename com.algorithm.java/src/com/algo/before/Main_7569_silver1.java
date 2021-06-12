@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Main_7569 {
+public class Main_7569_silver1 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 //		sc = new Scanner(src);
