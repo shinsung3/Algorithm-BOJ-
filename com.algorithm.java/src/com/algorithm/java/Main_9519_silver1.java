@@ -1,10 +1,10 @@
-package com.algo.before;
+package com.algorithm.java;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main_9519 {
+public class Main_9519_silver1 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int X = sc.nextInt(); // ´«±ôºýÇÑ È½¼ö
