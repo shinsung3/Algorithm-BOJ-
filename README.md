@@ -4,8 +4,13 @@
 - [1174 줄어드는 숫자]
 - [1254 팰린드롬 만들기]
 - [1697 숨바꼭질]
+- [1926 그림]
 - [7569 토마토]
 - [7576 토마토]
+
+### Silver 2
+
+- [1260 DFS와 BFS]
 
 ### Silver 3
 
@@ -29,14 +34,13 @@
 # Java 백준 문제풀이
 
 - 백준 알고리즘 문제풀이
-  <br/>
-  - 설명은 ```tlstjd436.blog.me```
-- 1063 - 킹 (시뮬레이션 문제)
-  - 문제 : https://www.acmicpc.net/problem/1063
-  - 해석 및 소스코드 설명 : https://tlstjd436.blog.me/221735111114
-- 2160 - 그림 비교 (조합 문제)
-  - 문제 : https://www.acmicpc.net/problem/2160
-  - 해석 및 소스코드 설명 : https://tlstjd436.blog.me/221737284025
+
+### 설명
+
+- https://blog.naver.com/tlstjd436
+
+
+
 - 2174 - 로봇 시뮬레이션 (시뮬레이션 문제)
   - 문제 : https://www.acmicpc.net/problem/2174
   - 해석 및 소스코드 설명 : https://tlstjd436.blog.me/221737348239
@@ -46,11 +50,13 @@
 - <b>5014 - 스타트링크</b>
   - 문제 : https://www.acmicpc.net/problem/5014
 - [1051 숫자 정사각형] 
+- [1063 킹](https://tlstjd436.blog.me/221735111114)
 - [1174 줄어드는 숫자]
 - [1197 최소 스패닝 트리](https://tlstjd436.blog.me/221725168366)
 - [1233 주사위](https://tlstjd436.blog.me/222057954941)
 - [1236 성 지키기](https://tlstjd436.blog.me/222063058927)
 - [1259 팰린드롬수](https://tlstjd436.blog.me/222068841975)
+- [1260 DFS와 BFS]
 - [1284 집주소](https://tlstjd436.blog.me/222069771125)
 - [1296 데이트](https://tlstjd436.blog.me/222072616306)
 - [1333 부재중 전화](https://tlstjd436.blog.me/222072652848)
@@ -60,6 +66,8 @@
 - [1384 메시지](https://tlstjd436.blog.me/222083124625)
 - [1388 바닥 장식](https://tlstjd436.blog.me/222083862299)
 - [1712 손익분기점](https://tlstjd436.blog.me/222014266595) - 단계별로 풀어보기 : 수학1[Bronze 4]
+- [1926 그림]
+- [2016 그림비교](https://tlstjd436.blog.me/221737284025)
 - [2231 분해합](https://tlstjd436.blog.me/222030656834)
 - [2292 벌집](https://tlstjd436.blog.me/222017327117) - 단계별로 풀어보기 : 수학1[Bronze 2]
 - [2447 별찍기 - 10](https://tlstjd436.blog.me/222028743030) - 분할정복
