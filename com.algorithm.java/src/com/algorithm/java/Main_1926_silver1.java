@@ -1,12 +1,12 @@
-package com.algo.before;
+package com.algorithm.java;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main_1926 {
+public class Main_1926_silver1 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-//		sc = new Scanner(src);
+		sc = new Scanner(src);
 		int N = sc.nextInt(); // 세로
 		int M = sc.nextInt(); // 가로
 		int[][] map = new int[N][M];
@@ -27,7 +27,7 @@ public class Main_1926 {
 					max = 1;
 					visit[i][j] = true;
 					dfs(map, i, j, N, M);
-					if(answerMax<max) {
+					if (answerMax < max) {
 						answerMax = max;
 					}
 //					System.out.println(max);
@@ -43,17 +43,17 @@ public class Main_1926 {
 	static int X[] = { 0, 0, -1, 1 };
 	static boolean visit[][];
 	static int max;
-	
+
 	static void dfs(int[][] map, int y, int x, int N, int M) {
-		for(int i=0; i<4; i++) {
+		for (int i = 0; i < 4; i++) {
 			int ny = Y[i] + y;
 			int nx = X[i] + x;
-			
-			if(ny<0 || nx<0 || ny>=N || nx>=M)
+
+			if (ny < 0 || nx < 0 || ny >= N || nx >= M)
 				continue;
-			if(visit[ny][nx])
+			if (visit[ny][nx])
 				continue;
-			if(map[ny][nx]==0)
+			if (map[ny][nx] == 0)
 				continue;
 			visit[ny][nx] = true;
 			dfs(map, ny, nx, N, M);
