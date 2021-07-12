@@ -132,6 +132,7 @@
 - [9655 돌게임](https://blog.naver.com/tlstjd436/222207042074) - Silver 5
 - [10818 최소 최대](https://tlstjd436.blog.me/222011356788) - 단계별로 풀어보기 : 1차원 배열 [Bronze 3]
 - [10757 큰 수 A+B]
+- [10816 숫자 카드 2]
 - [10872 팩토리얼](https://tlstjd436.blog.me/222023107917) - 단계별로 풀어보기 : 재귀 [Bronze 3]
 - [10996 별찍기 - 21](https://tlstjd436.blog.me/222047679162)
 - [11004 K번째 수](https://tlstjd436.blog.me/222174824871)
