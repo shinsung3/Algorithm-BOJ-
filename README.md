@@ -21,6 +21,10 @@
 - [11651 좌표 정렬하기 2](https://tlstjd436.blog.me/222174813943) - 정렬
 - [11723 집합](https://tlstjd436.blog.me/222175712504)
 
+### Bronze 2
+
+- [2798 블랙잭]
+
 ### Bronze 5
 
 - [6749 Next in line]
