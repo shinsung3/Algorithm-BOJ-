@@ -14,7 +14,11 @@
 
 ### Silver 3
 
-- [8061 - Bitmap]
+- [8061 Bitmap]
+
+### Silver 4
+
+- [10773 제로]
 
 ### Silver 5
 
