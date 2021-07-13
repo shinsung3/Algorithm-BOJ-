@@ -14,7 +14,7 @@
 
 ### Silver 3
 
-- [8061 Bitmap]
+- [8061 Bitmap](https://blog.naver.com/tlstjd436/222429367065)
 
 ### Silver 4
 
