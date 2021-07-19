@@ -30,6 +30,7 @@
 ### Bronze 2
 
 - [2798 블랙잭]
+- [15829 Hashing]
 
 ### Bronze 5
 
