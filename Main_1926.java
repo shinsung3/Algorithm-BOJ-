@@ -1,5 +1,3 @@
-package com.algo.before;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -7,8 +5,8 @@ public class Main_1926 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 //		sc = new Scanner(src);
-		int N = sc.nextInt(); // ¼¼·Î
-		int M = sc.nextInt(); // °¡·Î
+		int N = sc.nextInt(); // Â¼Â¼Â·ÃŽ
+		int M = sc.nextInt(); // Â°Â¡Â·ÃŽ
 		int[][] map = new int[N][M];
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < M; j++) {
