@@ -1,8 +1,8 @@
 # Algorithm-BOJ-
 ### Silver 1
 
-- [1174 줄어드는 숫자]
-- [1254 팰린드롬 만들기]
+- [1174 줄어드는 숫자](https://blog.naver.com/tlstjd436/222430741810)
+- [1254 팰린드롬 만들기](https://blog.naver.com/tlstjd436/221582444280)
 - [1697 숨바꼭질]
 - [1926 그림]
 - [7569 토마토]
@@ -15,6 +15,7 @@
 ### Silver 3
 
 - [8061 Bitmap](https://blog.naver.com/tlstjd436/222429367065)
+- 18111 마인크래프트
 
 ### Silver 4
 
@@ -60,22 +61,15 @@
 
 - https://blog.naver.com/tlstjd436
 
+  
 
-
-- 2174 - 로봇 시뮬레이션 (시뮬레이션 문제)
-  - 문제 : https://www.acmicpc.net/problem/2174
-  - 해석 및 소스코드 설명 : https://tlstjd436.blog.me/221737348239
-- 11568 - 민균이의 계략 (DP)
-  - 문제 : https://www.acmicpc.net/problem/11568
-  - 해석 및 소스코드 설명 : https://tlstjd436.blog.me/221739311514
-- <b>5014 - 스타트링크</b>
-  - 문제 : https://www.acmicpc.net/problem/5014
 - [1051 숫자 정사각형] 
 - [1063 킹](https://tlstjd436.blog.me/221735111114)
-- [1174 줄어드는 숫자]
+- [1174 줄어드는 숫자](https://blog.naver.com/tlstjd436/222430741810)
 - [1197 최소 스패닝 트리](https://tlstjd436.blog.me/221725168366)
 - [1233 주사위](https://tlstjd436.blog.me/222057954941)
 - [1236 성 지키기](https://tlstjd436.blog.me/222063058927)
+- [1254 팰린드롬 만들기](https://blog.naver.com/tlstjd436/221582444280)
 - [1259 팰린드롬수](https://tlstjd436.blog.me/222068841975)
 - [1260 DFS와 BFS]
 - [1284 집주소](https://tlstjd436.blog.me/222069771125)
@@ -89,6 +83,7 @@
 - [1712 손익분기점](https://tlstjd436.blog.me/222014266595) - 단계별로 풀어보기 : 수학1[Bronze 4]
 - [1926 그림]
 - [2016 그림비교](https://tlstjd436.blog.me/221737284025)
+- [2174 - 로봇 시뮬레이션 (시뮬레이션 문제)](https://tlstjd436.blog.me/221737348239)
 - [2231 분해합](https://tlstjd436.blog.me/222030656834)
 - [2292 벌집](https://tlstjd436.blog.me/222017327117) - 단계별로 풀어보기 : 수학1[Bronze 2]
 - [2447 별찍기 - 10](https://tlstjd436.blog.me/222028743030) - 분할정복
@@ -102,6 +97,7 @@
 - [3052 나머지](https://tlstjd436.blog.me/222014158564) - 단계별로 풀어보기 : 1차원 배열[Bronze 2]
 - [3003 킹, 퀸, 룩, 비숍, 나이트, 폰]
 - [3046 R2]
+- [5014 스타트링크]
 - [5543 상근날드](https://tlstjd436.blog.me/222023107917) - 단계별로 풀어보기 : 재귀[Bronze 4]
 - [7568 덩치](https://tlstjd436.blog.me/222033696085)
 - [7569 토마토]
@@ -110,6 +106,7 @@
 - [9655 돌 게임] [Silver 5]
 - [10818 최소 최대](https://tlstjd436.blog.me/222011080577) - 단계별로 풀어보기 : 1차원 배열 [Bronze 3]
 - [10872 팩토리얼](https://tlstjd436.blog.me/222023107917) - 단계별로 풀어보기 : 재귀 [Bronze 3]
+- [11568 민균이의 계략 (DP)](https://tlstjd436.blog.me/221739311514)[11568 민균이의 계략 (DP)](https://tlstjd436.blog.me/221739311514)
 - [11729 하노이 탑 이동 순서](https://tlstjd436.blog.me/222035696429) - 재귀 [Silver 2]
 - [15596 정수 N개의 합](https://tlstjd436.blog.me/222014171426) - 단계별로 풀어보기 : 함수[Bronze 2]
 - [16170 오늘의 날짜는?]
@@ -155,6 +152,5 @@
 - [14928 큰 수 (BIG)]
 - [15596 정수 N개의 합](https://tlstjd436.blog.me/222016210590) - 단계별로 풀어보기 : 함수[Bronze 2]
 - [15740 A+B -9]
-
-
+- [15829 Hashing]
 
