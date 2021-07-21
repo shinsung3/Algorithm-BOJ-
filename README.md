@@ -1,4 +1,13 @@
 # Algorithm-BOJ-
+
+### Gold 3
+
+- [1377 버블 소트](https://blog.naver.com/tlstjd436/221592672193)
+
+### Gold 5
+
+- [14503 로봇 청소기](https://blog.naver.com/tlstjd436/221628202144)
+
 ### Silver 1
 
 - [1174 줄어드는 숫자](https://blog.naver.com/tlstjd436/222430741810)
@@ -6,7 +15,7 @@
 - [1697 숨바꼭질]
 - [1927 최소 힙]
 - [1926 그림](https://blog.naver.com/tlstjd436/222437742031)
-- [7569 토마토]
+- [7569 토마토](https://blog.naver.com/tlstjd436/222437777555)
 - [7576 토마토]
 
 ### Silver 2
@@ -21,8 +30,9 @@
 
 ### Silver 4
 
-- [4949 균형잡힌 세상]
+- [1302 베스트셀러](https://blog.naver.com/tlstjd436/221588243172)
 
+- [4949 균형잡힌 세상]
 - [10773 제로]
 
 ### Silver 5
@@ -30,10 +40,24 @@
 - [11651 좌표 정렬하기 2](https://tlstjd436.blog.me/222174813943) - 정렬
 - [11723 집합](https://tlstjd436.blog.me/222175712504)
 
+### Bronze 1
+
+- [1356 유진수](https://blog.naver.com/tlstjd436/221593226288)
+- [1357 뒤집힌 덧셈](https://blog.naver.com/tlstjd436/221586567760)
+- [1402 아무래도이문제는A번난이도인것같다](https://blog.naver.com/tlstjd436/221608037484)
+- [1453 피시방 알바](https://blog.naver.com/tlstjd436/221593452042)
+
 ### Bronze 2
 
+- [1350 진짜 공간](https://blog.naver.com/tlstjd436/221592407429)
+
+- [1392 노래 악보](https://blog.naver.com/tlstjd436/221586588483)
 - [2798 블랙잭]
 - [15829 Hashing]
+
+### Bronze 4
+
+- [1297 TV 크기](https://blog.naver.com/tlstjd436/221582451579)
 
 ### Bronze 5
 
@@ -89,17 +113,35 @@
 
 - [1296 데이트](https://tlstjd436.blog.me/222072616306)
 
+- [1297 TV 크기](https://blog.naver.com/tlstjd436/221582451579)
+
+- [1302 베스트셀러](https://blog.naver.com/tlstjd436/221588243172)
+
 - [1333 부재중 전화](https://tlstjd436.blog.me/222072652848)
 
 - [1340 연도 진행바](https://tlstjd436.blog.me/222073984333)
+
+- [1350 진짜 공간](https://blog.naver.com/tlstjd436/221592407429)
+
+- [1356 유진수](https://blog.naver.com/tlstjd436/221593226288)
+
+- [1357 뒤집힌 덧셈](https://blog.naver.com/tlstjd436/221586567760)
 
 - [1362 펫](https://tlstjd436.blog.me/222076526880)
 
 - [1371 가장 많은 글자](https://tlstjd436.blog.me/222083112897)
 
+- [1377 버블 소트](https://blog.naver.com/tlstjd436/221592672193)
+
 - [1384 메시지](https://tlstjd436.blog.me/222083124625)
 
 - [1388 바닥 장식](https://tlstjd436.blog.me/222083862299)
+
+- [1392 노래 악보](https://blog.naver.com/tlstjd436/221586588483)
+
+- [1402 아무래도이문제는A번난이도인것같다](https://blog.naver.com/tlstjd436/221608037484)
+
+- [1453 피시방 알바](https://blog.naver.com/tlstjd436/221593452042)
 
 - [1712 손익분기점](https://tlstjd436.blog.me/222014266595) - 단계별로 풀어보기 : 수학1[Bronze 4]
 
@@ -141,7 +183,7 @@
 
 - [7568 덩치](https://tlstjd436.blog.me/222033696085)
 
-- [7569 토마토]
+- [7569 토마토](https://blog.naver.com/tlstjd436/222437777555)
 
 - [7576 토마토]
 
@@ -156,6 +198,8 @@
 - [11568 민균이의 계략 (DP)](https://tlstjd436.blog.me/221739311514)[11568 민균이의 계략 (DP)](https://tlstjd436.blog.me/221739311514)
 
 - [11729 하노이 탑 이동 순서](https://tlstjd436.blog.me/222035696429) - 재귀 [Silver 2]
+
+- [14503 로봇 청소기](https://blog.naver.com/tlstjd436/221628202144)
 
 - [15596 정수 N개의 합](https://tlstjd436.blog.me/222014171426) - 단계별로 풀어보기 : 함수[Bronze 2]
 
@@ -200,6 +244,7 @@
 - [11382 꼬마 정민]
 - [11729 하노이 탑 이동 순서] - 재귀 [Silver 2]
 - [13277 큰 수 곱셈]
+- [14645 와이버스 부릉부릉]
 - [14681 사분면 고리기](https://tlstjd436.blog.me/222046787325)
 - [14928 큰 수 (BIG)]
 - [15596 정수 N개의 합](https://tlstjd436.blog.me/222016210590) - 단계별로 풀어보기 : 함수[Bronze 2]
