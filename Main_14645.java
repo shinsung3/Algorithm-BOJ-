@@ -1,5 +1,3 @@
-package com.algorithm.java;
-
 import java.util.Scanner;
 
 public class Main_14645 {
@@ -13,6 +11,6 @@ public class Main_14645 {
 				sc.nextInt();
 			}
 		}
-		System.out.println("ºñ¿ÍÀÌ");
+		System.out.println("ë¹„ì™€ì´");
 	}
 }
