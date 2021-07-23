@@ -3,10 +3,21 @@
 ### Gold 3
 
 - [1377 버블 소트](https://blog.naver.com/tlstjd436/221592672193)
+- [16988 Baaaaaaaaaduk2 (Easy)]
+
+### Gold 4
+
+- [1707 이분 그래프](https://blog.naver.com/tlstjd436/221569283508)
+- [17406 배열 돌리기 4](https://blog.naver.com/tlstjd436/221614445081)
 
 ### Gold 5
 
 - [14503 로봇 청소기](https://blog.naver.com/tlstjd436/221628202144)
+- [15686 치킨 배달](https://blog.naver.com/tlstjd436/221588140498)
+- [16234 인구 이동](https://blog.naver.com/tlstjd436/221635718740)
+- [16954 움직이는 미로 탈출](https://blog.naver.com/tlstjd436/221583539567)
+- [17070 파이프 옮기기 1](https://blog.naver.com/tlstjd436/221593349663)
+- [17144 미세먼지 안녕!](https://blog.naver.com/tlstjd436/221587520291)
 
 ### Silver 1
 
@@ -17,25 +28,37 @@
 - [1926 그림](https://blog.naver.com/tlstjd436/222437742031)
 - [7569 토마토](https://blog.naver.com/tlstjd436/222437777555)
 - [7576 토마토]
+- [14888 연산자 끼워넣기](https://blog.naver.com/tlstjd436/221621910129)
 
 ### Silver 2
 
 - [1260 DFS와 BFS]
+- [17395 전구 길만 걷자](https://blog.naver.com/tlstjd436/221592459621) 
 
 ### Silver 3
 
-- [1269 대칭 차집합]
+- [1269 대칭 차집합](https://blog.naver.com/tlstjd436/222439008102)
 - [8061 Bitmap](https://blog.naver.com/tlstjd436/222429367065)
+- [15649 N과 M (1)](https://blog.naver.com/tlstjd436/221593281790)
+- [15650 N과 M (2)](https://blog.naver.com/tlstjd436/221593662528)
+- [15651 N과 M (3)](https://blog.naver.com/tlstjd436/221598911503)
+- [15652 N과 M (4)](https://blog.naver.com/tlstjd436/221599203083)
+- [16922 로마 숫자 만들기](https://blog.naver.com/tlstjd436/221632848649)
+- [17204 죽음의 게임](https://blog.naver.com/tlstjd436/221598868893)
 - [18111 마인크래프트]
 
 ### Silver 4
 
 - [1302 베스트셀러](https://blog.naver.com/tlstjd436/221588243172)
 - [1620 나는야 포켓몬 마스터 이다솜]
+- [1920 수 찾기](https://blog.naver.com/tlstjd436/222218635960) 
 - [4949 균형잡힌 세상]
 - [10773 제로]
+- [17203 ∑|ΔEasyMAX|](https://blog.naver.com/tlstjd436/221598441955)
 
 ### Silver 5
+
+- [1476 날짜 계산](https://blog.naver.com/tlstjd436/221593412430)
 
 - [11651 좌표 정렬하기 2](https://tlstjd436.blog.me/222174813943) - 정렬
 - [11723 집합](https://tlstjd436.blog.me/222175712504)
@@ -46,25 +69,37 @@
 - [1357 뒤집힌 덧셈](https://blog.naver.com/tlstjd436/221586567760)
 - [1402 아무래도이문제는A번난이도인것같다](https://blog.naver.com/tlstjd436/221608037484)
 - [1453 피시방 알바](https://blog.naver.com/tlstjd436/221593452042)
+- [17202 핸드폰 번호 궁합](https://blog.naver.com/tlstjd436/221598412213)
 
 ### Bronze 2
 
 - [1350 진짜 공간](https://blog.naver.com/tlstjd436/221592407429)
-
 - [1392 노래 악보](https://blog.naver.com/tlstjd436/221586588483)
+- [1871 좋은 자동차 번호판](https://blog.naver.com/tlstjd436/221610068301)
 - [2798 블랙잭]
+- [15596 정수 N개의 합](https://tlstjd436.blog.me/222014171426)
 - [15829 Hashing]
+- [17201 자석 체인](https://blog.naver.com/tlstjd436/221596307896) 
+- [17206 준석이의 수학 문제](https://blog.naver.com/tlstjd436/221588197565) 
+- [17249 태보태보 총난타](https://blog.naver.com/tlstjd436/221552625853)
+- [17263 Sort 마스터 배지훈](https://blog.naver.com/tlstjd436/221598383436)
+
+### Bronze 3
+
+- [1547 공](https://blog.naver.com/tlstjd436/221633188223)
+- [17210 문문문](https://blog.naver.com/tlstjd436/221608917990)
 
 ### Bronze 4
 
 - [1297 TV 크기](https://blog.naver.com/tlstjd436/221582451579)
+- [1712 손익분기점](https://tlstjd436.blog.me/222014266595) 
 
 ### Bronze 5
 
 - [6749 Next in line]
 - [8370 Plane]
 - [10757 큰 수 A+B]
-- [14645 와이버스 부릉부릉]
+- [14645 와이버스 부릉부릉](https://blog.naver.com/tlstjd436/222440238570)
 - [14928 큰 수 (BIG)]
 - [15439 Vera and Outfits]
 - [15727 조별과제를 하려는데 조장이 사라졌다]
@@ -74,8 +109,13 @@
 - [16170 오늘의 날짜는?]
 - [16394 홍익대학교]
 - [16430 제리와 톰]
+- [17256 달달함이 넘쳐흘러](https://blog.naver.com/tlstjd436/221598420155)
 - [17295 엔드게임 스포일러]
 - [21300 Bottle Return]
+
+### Non Ranking
+
+- [15913 가위 바위 보 999 (308점)]
 
 =========================================================================
 
@@ -107,7 +147,7 @@
 
 - [1260 DFS와 BFS]
 
-- [1269 대칭 차집합]
+- [1269 대칭 차집합](https://blog.naver.com/tlstjd436/222439008102)
 
 - [1284 집주소](https://tlstjd436.blog.me/222069771125)
 
@@ -143,11 +183,23 @@
 
 - [1453 피시방 알바](https://blog.naver.com/tlstjd436/221593452042)
 
+- [1476 날짜 계산](https://blog.naver.com/tlstjd436/221593412430)
+
+- [1547 공](https://blog.naver.com/tlstjd436/221633188223)
+
 - [1620 나는야 포켓몬 마스터 이다솜]
+
+- [1707 이분 그래프](https://blog.naver.com/tlstjd436/221569283508)
 
 - [1712 손익분기점](https://tlstjd436.blog.me/222014266595) - 단계별로 풀어보기 : 수학1[Bronze 4]
 
-- [1926 그림]
+- [1871 좋은 자동차 번호판](https://blog.naver.com/tlstjd436/221610068301)
+
+- [1920 수 찾기](https://blog.naver.com/tlstjd436/222218635960) 
+
+- [1926 그림](https://blog.naver.com/tlstjd436/222437742031) - HashSet, StringBuilder
+
+- [1927 최소 힙] - 우선순위큐
 
 - [2016 그림비교](https://tlstjd436.blog.me/221737284025)
 
@@ -203,13 +255,65 @@
 
 - [14503 로봇 청소기](https://blog.naver.com/tlstjd436/221628202144)
 
+- [14888 연산자 끼워넣기](https://blog.naver.com/tlstjd436/221621910129)
+
 - [15596 정수 N개의 합](https://tlstjd436.blog.me/222014171426) - 단계별로 풀어보기 : 함수[Bronze 2]
+
+- [15649 N과 M (1)](https://blog.naver.com/tlstjd436/221593281790)
+
+- [15650 N과 M (2)](https://blog.naver.com/tlstjd436/221593662528)
+
+- [15651 N과 M (3)](https://blog.naver.com/tlstjd436/221598911503)
+
+- [15652 N과 M (4)](https://blog.naver.com/tlstjd436/221599203083)
+
+- [15686 치킨 배달](https://blog.naver.com/tlstjd436/221588140498)
+
+- [15727 조별과제를 하려는데 조장이 사라졌다]
+
+- [15733 나는 누구인가]
+
+- [15894 수학은 체육과목 입니다]
+
+- [15913 가위 바위 보 999 (308점)]
 
 - [16170 오늘의 날짜는?]
 
+- [16234 인구 이동](https://blog.naver.com/tlstjd436/221635718740)
+
 - [16394 홍익대학교]
 
+- [16430 제리와 톰]
+
+- [16922 로마 숫자 만들기](https://blog.naver.com/tlstjd436/221632848649)
+
+- [16954 움직이는 미로 탈출](https://blog.naver.com/tlstjd436/221583539567)
+
+- [16988 Baaaaaaaaaduk2 (Easy)]
+
+- [17201 자석 체인](https://blog.naver.com/tlstjd436/221596307896) - Array 
+
+- [17202 핸드폰 번호 궁합](https://blog.naver.com/tlstjd436/221598412213) - List 
+
+- [17203 ∑|ΔEasyMAX|](https://blog.naver.com/tlstjd436/221598441955) - 조합
+
+- [17204 죽음의 게임](https://blog.naver.com/tlstjd436/221598868893) - Array 
+
+- [17206 준석이의 수학 문제](https://blog.naver.com/tlstjd436/221588197565) - DP, 메모리초과 고려해서 풀기
+
+- [17210 문문문](https://blog.naver.com/tlstjd436/221608917990) - 규칙 찾기, 구현
+
+- [17249 태보태보 총난타](https://blog.naver.com/tlstjd436/221552625853) - 쉬운 문제
+
+- [17256 달달함이 넘쳐흘러](https://blog.naver.com/tlstjd436/221598420155) - 쉬운 문제
+
+- [17263 Sort 마스터 배지훈](https://blog.naver.com/tlstjd436/221598383436) - Sort
+
 - [17295 엔드게임 스포일러]
+
+- [17395 전구 길만 걷자](https://blog.naver.com/tlstjd436/221592459621) - 순열
+
+- [17406 배열 돌리기 4](https://blog.naver.com/tlstjd436/221614445081) - 순열
 
 
 
@@ -220,7 +324,6 @@
 - [1233 주사위](https://tlstjd436.blog.me/222073970813)
 - [1271 엄청난 부자2]
 - [1712 손익분기점] - 단계별로 풀어보기 : 수학1[Bronze 4]
-- [1920 수 찾기] - Silver 4
 - [2292 벌집](https://tlstjd436.blog.me/222019476741) - 단계별로 풀어보기 : 수학1[Bronze 2]
 - [2338 긴자리 계산]
 - [2446 별찍기 - 9](https://tlstjd436.blog.me/222047620191)
@@ -246,7 +349,7 @@
 - [11382 꼬마 정민]
 - [11729 하노이 탑 이동 순서] - 재귀 [Silver 2]
 - [13277 큰 수 곱셈]
-- [14645 와이버스 부릉부릉]
+- [14645 와이버스 부릉부릉](https://blog.naver.com/tlstjd436/222440238570)
 - [14681 사분면 고리기](https://tlstjd436.blog.me/222046787325)
 - [14928 큰 수 (BIG)]
 - [15596 정수 N개의 합](https://tlstjd436.blog.me/222016210590) - 단계별로 풀어보기 : 함수[Bronze 2]
