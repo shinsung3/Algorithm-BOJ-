@@ -1,5 +1,3 @@
-package com.algorithm.java;
-
 import java.util.Scanner;
 
 public class Main_15439 {
