@@ -318,6 +318,8 @@
 
 - [17406 배열 돌리기 4](https://blog.naver.com/tlstjd436/221614445081) - 순열
 
+- [22193 Multiply]
+
 
 
 # Python 백준 문제풀이
@@ -358,4 +360,5 @@
 - [15596 정수 N개의 합](https://tlstjd436.blog.me/222016210590) - 단계별로 풀어보기 : 함수[Bronze 2]
 - [15740 A+B -9]
 - [15829 Hashing]
+- [22193 Multiply]
 
