@@ -122,6 +122,7 @@
 - [3046 R2](https://blog.naver.com/tlstjd436/222097554285) 
 - [6749 Next in line]
 - [8370 Plane]
+- [8437 Julka]
 - [10757 큰 수 A+B]
 - [14645 와이버스 부릉부릉](https://blog.naver.com/tlstjd436/222440238570)
 - [14652 나는 행복합니다]
@@ -289,6 +290,8 @@
 - [7576 토마토]
 
 - [8061 - Bitmap]
+
+- [8437 Julka]
 
 - [9655 돌 게임] [Silver 5]
 
