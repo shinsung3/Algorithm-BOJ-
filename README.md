@@ -17,7 +17,7 @@
 - [2174 - 로봇 시뮬레이션 (시뮬레이션 문제)](https://tlstjd436.blog.me/221737348239)
 - [2589 보물섬](https://blog.naver.com/tlstjd436/221594434476)
 - [3190 뱀](https://blog.naver.com/tlstjd436/221632049374)
-
+- [5014 스타트링크](https://blog.naver.com/tlstjd436/221759718117)
 - [14503 로봇 청소기](https://blog.naver.com/tlstjd436/221628202144)
 - [15686 치킨 배달](https://blog.naver.com/tlstjd436/221588140498)
 - [16234 인구 이동](https://blog.naver.com/tlstjd436/221635718740)
@@ -45,6 +45,8 @@
 ### Silver 3
 
 - [1269 대칭 차집합](https://blog.naver.com/tlstjd436/222439008102)
+- [2630 색종이 만들기]
+- [5397 키로커](https://blog.naver.com/tlstjd436/221636553041)
 - [8061 Bitmap](https://blog.naver.com/tlstjd436/222429367065)
 - [15649 N과 M (1)](https://blog.naver.com/tlstjd436/221593281790)
 - [15650 N과 M (2)](https://blog.naver.com/tlstjd436/221593662528)
@@ -71,6 +73,7 @@
 - [1476 날짜 계산](https://blog.naver.com/tlstjd436/221593412430)
 - [2503 숫자 야구](https://blog.naver.com/tlstjd436/221614490049)
 - [2563 색종이](https://blog.naver.com/tlstjd436/222176762129)
+- [7568 덩치](https://tlstjd436.blog.me/222033696085)
 - [11651 좌표 정렬하기 2](https://tlstjd436.blog.me/222174813943) - 정렬
 - [11723 집합](https://tlstjd436.blog.me/222175712504)
 
@@ -113,6 +116,8 @@
 - [1297 TV 크기](https://blog.naver.com/tlstjd436/221582451579)
 - [1712 손익분기점](https://tlstjd436.blog.me/222014266595) 
 - [2753 윤년](https://blog.naver.com/tlstjd436/221754571678)
+- [5532 방학 숙제](https://blog.naver.com/tlstjd436/221635498109)
+- [5543 상근날드](https://tlstjd436.blog.me/222023107917) 
 
 ### Bronze 5
 
@@ -121,7 +126,7 @@
 - [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://blog.naver.com/tlstjd436/222096456940)
 - [3046 R2](https://blog.naver.com/tlstjd436/222097554285) 
 - [6749 Next in line]
-- [8370 Plane]
+- [8370 Plane](https://blog.naver.com/tlstjd436/222103789481)
 - [8437 Julka]
 - [10757 큰 수 A+B]
 - [11283 한글 2]
@@ -254,6 +259,8 @@
 
 - [2589 보물섬](https://blog.naver.com/tlstjd436/221594434476) - BFS
 
+- [2630 색종이 만들기] - DFS, 재귀
+
 - [2753 윤년](https://tlstjd436.blog.me/221754571678)
 
 - [2839 설탕배달](https://tlstjd436.blog.me/222017278105) - 단계별로 풀어보기 : 수학1[Bronze 1]
@@ -280,7 +287,11 @@
 
 - [4949 균형잡힌 세상]
 
-- [5014 스타트링크]
+- [5014 스타트링크](https://blog.naver.com/tlstjd436/221759718117)
+
+- [5397 키로커](https://blog.naver.com/tlstjd436/221636553041) - 시뮬레이션
+
+- [5532 방학 숙제](https://blog.naver.com/tlstjd436/221635498109) - 시뮬레이션
 
 - [5543 상근날드](https://tlstjd436.blog.me/222023107917) - 단계별로 풀어보기 : 재귀[Bronze 4]
 
@@ -290,7 +301,9 @@
 
 - [7576 토마토]
 
-- [8061 - Bitmap]
+- [8061 Bitmap](https://blog.naver.com/tlstjd436/222429367065)
+
+- [8370 Plane](https://blog.naver.com/tlstjd436/222103789481)
 
 - [8437 Julka]
 
