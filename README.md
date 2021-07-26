@@ -3,14 +3,20 @@
 ### Gold 3
 
 - [1377 버블 소트](https://blog.naver.com/tlstjd436/221592672193)
+- [1947 선물 전달](https://blog.naver.com/tlstjd436/221593390999)
 - [16988 Baaaaaaaaaduk2 (Easy)]
 
 ### Gold 4
 
 - [1707 이분 그래프](https://blog.naver.com/tlstjd436/221569283508)
+- [2234 성곽](https://blog.naver.com/tlstjd436/221624156755)
 - [17406 배열 돌리기 4](https://blog.naver.com/tlstjd436/221614445081)
 
 ### Gold 5
+
+- [2174 - 로봇 시뮬레이션 (시뮬레이션 문제)](https://tlstjd436.blog.me/221737348239)
+- [2589 보물섬](https://blog.naver.com/tlstjd436/221594434476)
+- [3190 뱀](https://blog.naver.com/tlstjd436/221632049374)
 
 - [14503 로봇 청소기](https://blog.naver.com/tlstjd436/221628202144)
 - [15686 치킨 배달](https://blog.naver.com/tlstjd436/221588140498)
@@ -26,6 +32,7 @@
 - [1697 숨바꼭질]
 - [1927 최소 힙]
 - [1926 그림](https://blog.naver.com/tlstjd436/222437742031)
+- [2447 별찍기 - 10](https://tlstjd436.blog.me/222028743030)
 - [7569 토마토](https://blog.naver.com/tlstjd436/222437777555)
 - [7576 토마토]
 - [14888 연산자 끼워넣기](https://blog.naver.com/tlstjd436/221621910129)
@@ -53,6 +60,8 @@
 - [1620 나는야 포켓몬 마스터 이다솜]
 - [1764 듣보잡]
 - [1920 수 찾기](https://blog.naver.com/tlstjd436/222218635960) 
+- [2164 카드2](https://blog.naver.com/tlstjd436/221635364605)
+- [2980 도로와 신호등](https://blog.naver.com/tlstjd436/221606452295)
 - [4949 균형잡힌 세상]
 - [10773 제로]
 - [17203 ∑|ΔEasyMAX|](https://blog.naver.com/tlstjd436/221598441955)
@@ -60,7 +69,8 @@
 ### Silver 5
 
 - [1476 날짜 계산](https://blog.naver.com/tlstjd436/221593412430)
-
+- [2503 숫자 야구](https://blog.naver.com/tlstjd436/221614490049)
+- [2563 색종이](https://blog.naver.com/tlstjd436/222176762129)
 - [11651 좌표 정렬하기 2](https://tlstjd436.blog.me/222174813943) - 정렬
 - [11723 집합](https://tlstjd436.blog.me/222175712504)
 
@@ -70,6 +80,9 @@
 - [1357 뒤집힌 덧셈](https://blog.naver.com/tlstjd436/221586567760)
 - [1402 아무래도이문제는A번난이도인것같다](https://blog.naver.com/tlstjd436/221608037484)
 - [1453 피시방 알바](https://blog.naver.com/tlstjd436/221593452042)
+- [2160 그림비교](https://tlstjd436.blog.me/221737284025)
+- [2839 설탕배달](https://tlstjd436.blog.me/222017278105)
+- [2869 달팽이는 올라가고 싶다](https://tlstjd436.blog.me/222016203217)
 - [17202 핸드폰 번호 궁합](https://blog.naver.com/tlstjd436/221598412213)
 
 ### Bronze 2
@@ -77,7 +90,11 @@
 - [1350 진짜 공간](https://blog.naver.com/tlstjd436/221592407429)
 - [1392 노래 악보](https://blog.naver.com/tlstjd436/221586588483)
 - [1871 좋은 자동차 번호판](https://blog.naver.com/tlstjd436/221610068301)
+- [2292 벌집](https://tlstjd436.blog.me/222017327117)
+- [2562 최댓값](https://tlstjd436.blog.me/222014143318)
 - [2798 블랙잭]
+- [3052 나머지](https://tlstjd436.blog.me/222014158564) 
+- [4458 첫 글자를 대문자로](https://blog.naver.com/tlstjd436/221614458695)
 - [15596 정수 N개의 합](https://tlstjd436.blog.me/222014171426)
 - [15829 Hashing]
 - [17201 자석 체인](https://blog.naver.com/tlstjd436/221596307896) 
@@ -88,19 +105,26 @@
 ### Bronze 3
 
 - [1547 공](https://blog.naver.com/tlstjd436/221633188223)
+- [2884 알람 시계](https://tlstjd436.blog.me/222014194896) 
 - [17210 문문문](https://blog.naver.com/tlstjd436/221608917990)
 
 ### Bronze 4
 
 - [1297 TV 크기](https://blog.naver.com/tlstjd436/221582451579)
 - [1712 손익분기점](https://tlstjd436.blog.me/222014266595) 
+- [2753 윤년](https://blog.naver.com/tlstjd436/221754571678)
 
 ### Bronze 5
 
+- [2845 파티가 끝난고 난 뒤](https://tlstjd436.blog.me/222089545226)
+- [2914 저작권](https://tlstjd436.blog.me/222095213595)
+- [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://blog.naver.com/tlstjd436/222096456940)
+- [3046 R2](https://blog.naver.com/tlstjd436/222097554285) 
 - [6749 Next in line]
 - [8370 Plane]
 - [10757 큰 수 A+B]
 - [14645 와이버스 부릉부릉](https://blog.naver.com/tlstjd436/222440238570)
+- [14652 나는 행복합니다]
 - [14928 큰 수 (BIG)]
 - [15439 Vera and Outfits]
 - [15727 조별과제를 하려는데 조장이 사라졌다]
@@ -204,19 +228,31 @@
 
 - [1927 최소 힙] - 우선순위큐
 
-- [2016 그림비교](https://tlstjd436.blog.me/221737284025)
+- [1947 선물 전달](https://blog.naver.com/tlstjd436/221593390999) - DP
+
+- [2160 그림비교](https://tlstjd436.blog.me/221737284025) - 시뮬레이션, 조합
+
+- [2164 카드2](https://blog.naver.com/tlstjd436/221635364605) - 시뮬레이션
 
 - [2174 - 로봇 시뮬레이션 (시뮬레이션 문제)](https://tlstjd436.blog.me/221737348239)
 
 - [2231 분해합](https://tlstjd436.blog.me/222030656834)
 
+- [2234 성곽](https://blog.naver.com/tlstjd436/221624156755) - BFS
+
 - [2292 벌집](https://tlstjd436.blog.me/222017327117) - 단계별로 풀어보기 : 수학1[Bronze 2]
 
 - [2447 별찍기 - 10](https://tlstjd436.blog.me/222028743030) - 분할정복
 
+- [2503 숫자 야구](https://blog.naver.com/tlstjd436/221614490049) - 브루트포스
+
 - [2562 최댓값](https://tlstjd436.blog.me/222014143318) - 단계별로 풀어보기 : 1차원 배열[Bronze 2]
 
-- [2754 윤년](https://tlstjd436.blog.me/221754571678)
+- [2563 색종이](https://blog.naver.com/tlstjd436/222176762129) - Array
+
+- [2589 보물섬](https://blog.naver.com/tlstjd436/221594434476) - BFS
+
+- [2753 윤년](https://tlstjd436.blog.me/221754571678)
 
 - [2839 설탕배달](https://tlstjd436.blog.me/222017278105) - 단계별로 풀어보기 : 수학1[Bronze 1]
 
@@ -228,11 +264,19 @@
 
 - [2914 저작권](https://tlstjd436.blog.me/222095213595)
 
+- [2980 도로와 신호등](https://blog.naver.com/tlstjd436/221606452295) - 시뮬레이션
+
 - [3052 나머지](https://tlstjd436.blog.me/222014158564) - 단계별로 풀어보기 : 1차원 배열[Bronze 2]
 
-- [3003 킹, 퀸, 룩, 비숍, 나이트, 폰]
+- [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://blog.naver.com/tlstjd436/222096456940) - Array
 
-- [3046 R2]
+- [3046 R2](https://blog.naver.com/tlstjd436/222097554285) - 수학(사칙연산)
+
+- [3190 뱀](https://blog.naver.com/tlstjd436/221632049374) - 시뮬레이션
+
+- [4458 첫 글자를 대문자로](https://blog.naver.com/tlstjd436/221614458695)
+
+- [4949 균형잡힌 세상]
 
 - [5014 스타트링크]
 
