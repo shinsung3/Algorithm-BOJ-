@@ -54,7 +54,7 @@
 - [15652 N과 M (4)](https://blog.naver.com/tlstjd436/221599203083)
 - [16922 로마 숫자 만들기](https://blog.naver.com/tlstjd436/221632848649)
 - [17204 죽음의 게임](https://blog.naver.com/tlstjd436/221598868893)
-- [18111 마인크래프트]
+- [18111 마인크래프트](https://blog.naver.com/tlstjd436/222442583617)
 
 ### Silver 4
 
@@ -77,6 +77,7 @@
 - [7568 덩치](https://tlstjd436.blog.me/222033696085)
 - [11651 좌표 정렬하기 2](https://tlstjd436.blog.me/222174813943) - 정렬
 - [11723 집합](https://tlstjd436.blog.me/222175712504)
+- [17626 Four Squares]
 
 ### Bronze 1
 
@@ -383,6 +384,10 @@
 - [17395 전구 길만 걷자](https://blog.naver.com/tlstjd436/221592459621) - 순열
 
 - [17406 배열 돌리기 4](https://blog.naver.com/tlstjd436/221614445081) - 순열
+
+- [17626 Four Squares] - DP
+
+- [18111 마인크래프트](https://blog.naver.com/tlstjd436/222442583617)
 
 - [22193 Multiply]
 
