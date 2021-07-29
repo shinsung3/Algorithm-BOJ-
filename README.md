@@ -118,6 +118,7 @@
 
 - [1297 TV 크기](https://blog.naver.com/tlstjd436/221582451579)
 - [1712 손익분기점](https://tlstjd436.blog.me/222014266595) 
+- [2525 오븐 시계]
 - [2753 윤년](https://blog.naver.com/tlstjd436/221754571678)
 - [5532 방학 숙제](https://blog.naver.com/tlstjd436/221635498109)
 - [5543 상근날드](https://tlstjd436.blog.me/222023107917) 
@@ -259,6 +260,8 @@
 - [2480 주사위 세개]
 
 - [2503 숫자 야구](https://blog.naver.com/tlstjd436/221614490049) - 브루트포스
+
+- [2525 오븐 시계]
 
 - [2562 최댓값](https://tlstjd436.blog.me/222014143318) - 단계별로 풀어보기 : 1차원 배열[Bronze 2]
 
