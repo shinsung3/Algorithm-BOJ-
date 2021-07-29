@@ -60,6 +60,7 @@
 
 - [1302 베스트셀러](https://blog.naver.com/tlstjd436/221588243172)
 - [1620 나는야 포켓몬 마스터 이다솜]
+- [1676 팩토리얼 0의 개수]
 - [1764 듣보잡]
 - [1920 수 찾기](https://blog.naver.com/tlstjd436/222218635960) 
 - [2164 카드2](https://blog.naver.com/tlstjd436/221635364605)
@@ -129,10 +130,10 @@
 - [2914 저작권](https://tlstjd436.blog.me/222095213595)
 - [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://blog.naver.com/tlstjd436/222096456940)
 - [3046 R2](https://blog.naver.com/tlstjd436/222097554285) 
-- [6749 Next in line]
+- [6749 Next in line](https://blog.naver.com/tlstjd436/222442725588)
 - [8370 Plane](https://blog.naver.com/tlstjd436/222103789481)
 - [8437 Julka]
-- [10757 큰 수 A+B]
+- [10757 큰 수 A+B](https://blog.naver.com/tlstjd436/222442725588)
 - [11283 한글 2]
 - [14645 와이버스 부릉부릉](https://blog.naver.com/tlstjd436/222440238570)
 - [14652 나는 행복합니다]
@@ -225,6 +226,8 @@
 
 - [1620 나는야 포켓몬 마스터 이다솜]
 
+- [1676 팩토리얼 0의 개수]
+
 - [1707 이분 그래프](https://blog.naver.com/tlstjd436/221569283508)
 
 - [1712 손익분기점](https://tlstjd436.blog.me/222014266595) - 단계별로 풀어보기 : 수학1[Bronze 4]
@@ -304,6 +307,8 @@
 - [5532 방학 숙제](https://blog.naver.com/tlstjd436/221635498109) - 시뮬레이션
 
 - [5543 상근날드](https://tlstjd436.blog.me/222023107917) - 단계별로 풀어보기 : 재귀[Bronze 4]
+
+- [6749 Next in line](https://blog.naver.com/tlstjd436/222442725588)
 
 - [7568 덩치](https://tlstjd436.blog.me/222033696085)
 
@@ -422,7 +427,7 @@
 - [5543 상근날드](https://tlstjd436.blog.me/222023107917) - 단계별로 풀어보기 : 재귀[Bronze 4]
 - [9655 돌게임](https://blog.naver.com/tlstjd436/222207042074) - Silver 5
 - [10818 최소 최대](https://tlstjd436.blog.me/222011356788) - 단계별로 풀어보기 : 1차원 배열 [Bronze 3]
-- [10757 큰 수 A+B]
+- [10757 큰 수 A+B](https://blog.naver.com/tlstjd436/222442725588)
 - [10773 제로]
 - [10816 숫자 카드 2]
 - [10872 팩토리얼](https://tlstjd436.blog.me/222023107917) - 단계별로 풀어보기 : 재귀 [Bronze 3]
