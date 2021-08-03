@@ -48,6 +48,7 @@
 - [2630 색종이 만들기]
 - [5397 키로커](https://blog.naver.com/tlstjd436/221636553041)
 - [8061 Bitmap](https://blog.naver.com/tlstjd436/222429367065)
+- [9375 패션왕 신해빈]
 - [15649 N과 M (1)](https://blog.naver.com/tlstjd436/221593281790)
 - [15650 N과 M (2)](https://blog.naver.com/tlstjd436/221593662528)
 - [15651 N과 M (3)](https://blog.naver.com/tlstjd436/221598911503)
@@ -66,7 +67,6 @@
 - [2164 카드2](https://blog.naver.com/tlstjd436/221635364605)
 - [2420 사파리 월드]
 - [2480 주사위 세개]
-- [2752 세수정렬]
 - [2980 도로와 신호등](https://blog.naver.com/tlstjd436/221606452295)
 - [4949 균형잡힌 세상](https://blog.naver.com/tlstjd436/222444442722)
 - [10773 제로]
@@ -122,6 +122,7 @@
 - [1297 TV 크기](https://blog.naver.com/tlstjd436/221582451579)
 - [1712 손익분기점](https://tlstjd436.blog.me/222014266595) 
 - [2525 오븐 시계]
+- [2752 세수정렬]
 - [2753 윤년](https://blog.naver.com/tlstjd436/221754571678)
 - [5532 방학 숙제](https://blog.naver.com/tlstjd436/221635498109)
 - [5543 상근날드](https://tlstjd436.blog.me/222023107917) 
@@ -325,6 +326,8 @@
 - [8370 Plane](https://blog.naver.com/tlstjd436/222103789481)
 
 - [8437 Julka]
+
+- [9375 패션왕 신해빈]
 
 - [9655 돌 게임] [Silver 5]
 
