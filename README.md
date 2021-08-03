@@ -30,7 +30,7 @@
 - [1174 줄어드는 숫자](https://blog.naver.com/tlstjd436/222430741810)
 - [1254 팰린드롬 만들기](https://blog.naver.com/tlstjd436/221582444280)
 - [1697 숨바꼭질]
-- [1927 최소 힙]
+- [1927 최소 힙](https://blog.naver.com/tlstjd436/222442632197)
 - [1926 그림](https://blog.naver.com/tlstjd436/222437742031)
 - [2447 별찍기 - 10](https://tlstjd436.blog.me/222028743030)
 - [7569 토마토](https://blog.naver.com/tlstjd436/222437777555)
@@ -59,15 +59,16 @@
 ### Silver 4
 
 - [1302 베스트셀러](https://blog.naver.com/tlstjd436/221588243172)
-- [1620 나는야 포켓몬 마스터 이다솜]
+- [1620 나는야 포켓몬 마스터 이다솜](https://blog.naver.com/tlstjd436/222442409980)
 - [1676 팩토리얼 0의 개수]
 - [1764 듣보잡]
 - [1920 수 찾기](https://blog.naver.com/tlstjd436/222218635960) 
 - [2164 카드2](https://blog.naver.com/tlstjd436/221635364605)
 - [2420 사파리 월드]
 - [2480 주사위 세개]
+- [2752 세수정렬]
 - [2980 도로와 신호등](https://blog.naver.com/tlstjd436/221606452295)
-- [4949 균형잡힌 세상]
+- [4949 균형잡힌 세상](https://blog.naver.com/tlstjd436/222444442722)
 - [10773 제로]
 - [17203 ∑|ΔEasyMAX|](https://blog.naver.com/tlstjd436/221598441955)
 - [17219 비밀번호 찾기]
@@ -225,7 +226,7 @@
 
 - [1547 공](https://blog.naver.com/tlstjd436/221633188223)
 
-- [1620 나는야 포켓몬 마스터 이다솜]
+- [1620 나는야 포켓몬 마스터 이다솜](https://blog.naver.com/tlstjd436/222442409980)
 
 - [1676 팩토리얼 0의 개수]
 
@@ -241,7 +242,7 @@
 
 - [1926 그림](https://blog.naver.com/tlstjd436/222437742031) - HashSet, StringBuilder
 
-- [1927 최소 힙] - 우선순위큐
+- [1927 최소 힙](https://blog.naver.com/tlstjd436/222442632197) - 우선순위큐
 
 - [1947 선물 전달](https://blog.naver.com/tlstjd436/221593390999) - DP
 
@@ -275,6 +276,8 @@
 
 - [2630 색종이 만들기] - DFS, 재귀
 
+- [2752 세수정렬] - Array 정렬
+
 - [2753 윤년](https://tlstjd436.blog.me/221754571678)
 
 - [2839 설탕배달](https://tlstjd436.blog.me/222017278105) - 단계별로 풀어보기 : 수학1[Bronze 1]
@@ -299,7 +302,7 @@
 
 - [4458 첫 글자를 대문자로](https://blog.naver.com/tlstjd436/221614458695)
 
-- [4949 균형잡힌 세상]
+- [4949 균형잡힌 세상](https://blog.naver.com/tlstjd436/222444442722) - stack
 
 - [5014 스타트링크](https://blog.naver.com/tlstjd436/221759718117)
 
