@@ -126,6 +126,7 @@
 - [2753 윤년](https://blog.naver.com/tlstjd436/221754571678)
 - [5532 방학 숙제](https://blog.naver.com/tlstjd436/221635498109)
 - [5543 상근날드](https://tlstjd436.blog.me/222023107917) 
+- [10162 전자레인지] - Greedy
 
 ### Bronze 5
 
@@ -322,7 +323,7 @@
 
 - [7569 토마토](https://blog.naver.com/tlstjd436/222437777555)
 
-- [7576 토마토]
+- [7576 토마토](https://blog.naver.com/tlstjd436/222446751339)
 
 - [8061 Bitmap](https://blog.naver.com/tlstjd436/222429367065)
 
