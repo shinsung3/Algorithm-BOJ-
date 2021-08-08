@@ -46,6 +46,7 @@
 
 - [1269 대칭 차집합](https://blog.naver.com/tlstjd436/222439008102)
 - [2630 색종이 만들기]
+- [2720 세탁소 사장 동력]
 - [5397 키로커](https://blog.naver.com/tlstjd436/221636553041)
 - [8061 Bitmap](https://blog.naver.com/tlstjd436/222429367065)
 - [9375 패션왕 신해빈]
