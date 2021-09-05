@@ -1,5 +1,9 @@
 # Algorithm-BOJ-
 
+### Gold 2
+
+- [2252 줄 세우기]
+
 ### Gold 3
 
 - [1377 버블 소트](https://blog.naver.com/tlstjd436/221592672193)
