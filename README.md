@@ -2,7 +2,7 @@
 
 ### Gold 2
 
-- [2252 줄 세우기]
+- [2252 줄 세우기](https://blog.naver.com/tlstjd436/222495714614)
 
 ### Gold 3
 
@@ -44,6 +44,7 @@
 ### Silver 2
 
 - [1260 DFS와 BFS]
+- [1541 잃어버린 괄호]
 - [17395 전구 길만 걷자](https://blog.naver.com/tlstjd436/221592459621) 
 
 ### Silver 3
